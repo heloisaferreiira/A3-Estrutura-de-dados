@@ -13,6 +13,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
+
 import a3.nicolas.controller.ChamadoController;
 import a3.nicolas.model.Chamado;
 
